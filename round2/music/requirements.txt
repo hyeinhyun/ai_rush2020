@@ -1,0 +1,9 @@
+#nsml: registry.navercorp.com/nsml/airush2020:pytorch1.5
+
+sklearn
+librosa
+scipy==1.4.1
+adamp
+efficientnet_pytorch
+pretrainedmodels
+cv
